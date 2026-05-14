@@ -641,7 +641,7 @@ animation: fadeIn 1.2s ease both 0.2s;
     section { padding: 70px 24px; }
     .inicio-conteudo { grid-template-columns: 1fr; }
     .inicio-right { min-height: 360px; }
-    .inicio-left { padding: 60px 24px 40px; }
+    .inicio-left { padding: 60px 24px 40px 24px; }
     .sobre { grid-template-columns: 1fr; padding: 70px 24px; }
     .cards-grid { grid-template-columns: 1fr; }
     .funcionamento-steps { grid-template-columns: 1fr 1fr; }
