@@ -661,3 +661,9 @@ animation: fadeIn 1.2s ease both 0.2s;
     overflow: hidden !important;
   }
 }
+
+@media (max-width: 430px) {
+  .inicio-left {
+    padding-top: 80px !important;
+  }
+}
