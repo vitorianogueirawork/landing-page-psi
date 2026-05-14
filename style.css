@@ -657,7 +657,7 @@ animation: fadeIn 1.2s ease both 0.2s;
   .inicio-conteudo {
     width: 100% !important;
     margin: 0 !important;
-    padding: 80px 24px 0 24px !important;
+    padding: 0 !important;
     overflow: hidden !important;
   }
 }
