@@ -41,7 +41,7 @@ nav {
 
 nav.scrolled { border-bottom-color: var(--border)}
 
-.nav-logo {
+.navlogo {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.3rem;
     font-weight: 400;
@@ -49,7 +49,7 @@ nav.scrolled { border-bottom-color: var(--border)}
     color: var(--charcoal);
     text-decoration: none;
 }
-.nav-logo span{ color: var(--sage);}
+.navlogo span{ color: var(--sage);}
 
 .nav-links { display: flex; gap: 36px; list-style: none;}
 .nav-links a {
@@ -639,12 +639,12 @@ animation: fadeIn 1.2s ease both 0.2s;
     nav { padding: 18px 24px; }
     .nav-links { display: none; }
     section { padding: 70px 24px; }
-    .hero { grid-template-columns: 1fr; }
-    .hero-right { min-height: 360px; }
-    .hero-left { padding: 60px 24px 40px; }
+    .inicio-conteudo { grid-template-columns: 1fr; }
+    .inicio-right { min-height: 360px; }
+    .inicio-left { padding: 60px 24px 40px; }
     .sobre { grid-template-columns: 1fr; padding: 70px 24px; }
     .cards-grid { grid-template-columns: 1fr; }
-    .steps { grid-template-columns: 1fr 1fr; }
+    .funcionamento-steps { grid-template-columns: 1fr 1fr; }
     .depo-grid { grid-template-columns: 1fr; }
     .agendamento { grid-template-columns: 1fr; padding: 70px 24px; }
     .form-row { grid-template-columns: 1fr; }

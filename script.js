@@ -1,7 +1,7 @@
 // Nav scroll effect
-  const navbar = document.getElementById('navbar');
+  const navlogo = document.getElementById('navlogo');
   window.addEventListener('scroll', () => {
-    navbar.classList.toggle('scrolled', window.scrollY > 30);
+    navlogo.classList.toggle('scrolled', window.scrollY > 30);
   });
  
   // Reveal on scroll
