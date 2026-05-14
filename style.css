@@ -652,6 +652,11 @@ animation: fadeIn 1.2s ease both 0.2s;
     .abordagens-header { flex-direction: column; align-items: flex-start; gap: 16px; }
   }
 
-  @media (max-width: 430px) {
-  .inicio-left { padding: 20px 24px 40px 24px !important; }
+@media (max-width: 430px) {
+  .inicio-conteudo {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+  }
 }
